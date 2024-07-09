@@ -1,3 +1,3 @@
 # Theo2
 ## Links
-* Github.com/theo-armour
+* https://Github.com/theo-armour
